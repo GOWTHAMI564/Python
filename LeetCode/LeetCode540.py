@@ -31,3 +31,7 @@ class Solution:
 nums = [1, 2, 2, 3, 3]
 result = Solution.singleNonDuplicate(nums)
 print(result)   
+
+
+
+
